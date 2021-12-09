@@ -1,0 +1,12 @@
+Package: ACTGE
+Title: Adaptive Combination Testing and Multiple Testing for Gene-Environment Interactions
+Version: 1.0
+Authors@R:  c(person("Shirong", "Zhang", role = c("aut","cre"), email="shirongz@usc.edu"),
+             person("Juan Pablo", "Lewinger",role="ths", email="lewinger@usc.edu"))
+Description: Test Interaction between a Set of SNPs and an Exposure Factor
+Depends: R (>= 3.0.2), mvtnorm
+License: USC
+LazyData: true
+RoxygenNote: 5.0.1
+
+
